@@ -1,2 +1,5 @@
 # hello-world1
 hello-world
+Meu nome é Jefferson RA: 21135763-5
+Curso: SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Matéria: TÓPICOS ESPECIAIS - 51/2023
